@@ -27,9 +27,7 @@ Data preparation process:
 2. Choosing the top contributing features through SelectKBest tool provided by sklearn library as 
 it uses the co-matrix to determine what is the best features to use
 3. Normalizing the dat
-## Histograms
 
-<img src='docs/Histogram.png' width = '800' height='600'>
 
 
 ## Results
